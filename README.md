@@ -1,13 +1,10 @@
-### Hi, I'm Amogelang!👋
+# Hi, I'm Amogelang 👋
 
+- 🌍 Based in Johannesburg, South Africa  
+- 💼 Remote-ready professional in sales, customer service, and executive support  
+- 💻 Currently building Uzuri Boutique with MERN stack  
+- 🚀 Aspiring developer sharpening skills daily  
 
-- 🔭 Software Engineer sharing about my journey and learning in tech<br/>
-- 🌱 I’m currently learning ...Python 
-- 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for help with coding my first portfolio project
-- 💬 Ask me about working remotely
-- 📫 How to reach me: mabonelaa@gmail.com | 060 416 8227
--->
 
 <!-- Github stats from https://github.com// -->
 
